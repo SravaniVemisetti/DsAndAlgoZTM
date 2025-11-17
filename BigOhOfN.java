@@ -11,10 +11,10 @@ public class BigOhOfN {
 		}
 		long t2 = System.currentTimeMillis();
 		System.out.println(t2-t1);
-		//HI
 	}
 
 }
+
 
 
 
